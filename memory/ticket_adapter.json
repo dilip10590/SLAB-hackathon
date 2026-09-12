@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "domain": "tickets",
+  "selectors": {
+    "Paytm Movies.resultLinks": "a[href]",
+    "District.searchInput": "input[placeholder*=\"Search\" i]"
+  },
+  "routines": {},
+  "rescans": [
+    {
+      "key": "District.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:29:01.897Z"
+    },
+    {
+      "key": "Ixigo.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:29:01.131Z"
+    },
+    {
+      "key": "BookMyShow.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:28:58.892Z"
+    },
+    {
+      "key": "Ixigo.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:23:06.569Z"
+    },
+    {
+      "key": "District.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:23:06.183Z"
+    },
+    {
+      "key": "BookMyShow.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:23:05.932Z"
+    },
+    {
+      "key": "District.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:22:32.548Z"
+    },
+    {
+      "key": "Ixigo.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:22:29.978Z"
+    },
+    {
+      "key": "BookMyShow.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:22:26.120Z"
+    },
+    {
+      "key": "Paytm Movies.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:21:03.687Z"
+    },
+    {
+      "key": "Ixigo.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:21:02.128Z"
+    },
+    {
+      "key": "District.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:21:00.914Z"
+    },
+    {
+      "key": "BookMyShow.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:20:59.998Z"
+    },
+    {
+      "key": "Ixigo.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:11:50.300Z"
+    },
+    {
+      "key": "District.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:11:49.850Z"
+    },
+    {
+      "key": "BookMyShow.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:11:49.765Z"
+    },
+    {
+      "key": "Paytm Movies.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:11:44.059Z"
+    },
+    {
+      "key": "District.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:11:43.573Z"
+    },
+    {
+      "key": "Ixigo.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:11:43.541Z"
+    },
+    {
+      "key": "BookMyShow.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:11:43.247Z"
+    }
+  ]
+}

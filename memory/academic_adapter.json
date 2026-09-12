@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "domain": "academic_adapter",
+  "selectors": {
+    "arXiv.searchInput": "input[name=\"query\"]",
+    "PubMed.searchInput": "input[name=\"term\"]",
+    "PubMed.resultLinks": "a[href]"
+  },
+  "routines": {},
+  "rescans": [
+    {
+      "key": "Crossref.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:28:35.974Z"
+    },
+    {
+      "key": "arXiv.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:28:35.903Z"
+    },
+    {
+      "key": "arXiv.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:21:55.235Z"
+    },
+    {
+      "key": "Crossref.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T09:21:54.057Z"
+    },
+    {
+      "key": "Crossref.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T08:55:14.601Z"
+    },
+    {
+      "key": "arXiv.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T08:55:13.347Z"
+    },
+    {
+      "key": "Crossref.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T08:46:47.611Z"
+    },
+    {
+      "key": "arXiv.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T08:46:46.832Z"
+    },
+    {
+      "key": "PubMed.resultLinks",
+      "candidates": [
+        "a[href]"
+      ],
+      "at": "2026-09-12T08:46:46.097Z"
+    }
+  ]
+}
